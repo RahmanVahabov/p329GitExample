@@ -1,0 +1,15 @@
+/Users/rehmanvahabov/Projects/Gitexample/Gitexample/bin/Debug/net6.0/Gitexample
+/Users/rehmanvahabov/Projects/Gitexample/Gitexample/bin/Debug/net6.0/Gitexample.deps.json
+/Users/rehmanvahabov/Projects/Gitexample/Gitexample/bin/Debug/net6.0/Gitexample.runtimeconfig.json
+/Users/rehmanvahabov/Projects/Gitexample/Gitexample/bin/Debug/net6.0/Gitexample.dll
+/Users/rehmanvahabov/Projects/Gitexample/Gitexample/bin/Debug/net6.0/Gitexample.pdb
+/Users/rehmanvahabov/Projects/Gitexample/Gitexample/obj/Debug/net6.0/Gitexample.csproj.AssemblyReference.cache
+/Users/rehmanvahabov/Projects/Gitexample/Gitexample/obj/Debug/net6.0/Gitexample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rehmanvahabov/Projects/Gitexample/Gitexample/obj/Debug/net6.0/Gitexample.AssemblyInfoInputs.cache
+/Users/rehmanvahabov/Projects/Gitexample/Gitexample/obj/Debug/net6.0/Gitexample.AssemblyInfo.cs
+/Users/rehmanvahabov/Projects/Gitexample/Gitexample/obj/Debug/net6.0/Gitexample.csproj.CoreCompileInputs.cache
+/Users/rehmanvahabov/Projects/Gitexample/Gitexample/obj/Debug/net6.0/Gitexample.dll
+/Users/rehmanvahabov/Projects/Gitexample/Gitexample/obj/Debug/net6.0/refint/Gitexample.dll
+/Users/rehmanvahabov/Projects/Gitexample/Gitexample/obj/Debug/net6.0/Gitexample.pdb
+/Users/rehmanvahabov/Projects/Gitexample/Gitexample/obj/Debug/net6.0/Gitexample.genruntimeconfig.cache
+/Users/rehmanvahabov/Projects/Gitexample/Gitexample/obj/Debug/net6.0/ref/Gitexample.dll
